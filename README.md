@@ -1,4 +1,9 @@
 ### Hi there 👋
+## I am a programmer and pentester from Ukraine
+
+My Discord - Quality#8720
+
+My Telegram - quality1509
 
 <!--
 **Quality15/Quality15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
