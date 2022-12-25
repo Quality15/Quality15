@@ -5,7 +5,7 @@ My Discord - Quality#8720
 
 My Telegram - quality1509
 
-### Best ukrainian Discord Bot is (Xily)[https://discord.com/oauth2/authorize?client_id=898560951513661451&permissions=8&scope=bot%20applications.commands]!
+### Best ukrainian Discord Bot is [Xily](https://discord.com/oauth2/authorize?client_id=898560951513661451&permissions=8&scope=bot%20applications.commands)!
 
 <!--
 **Quality15/Quality15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
