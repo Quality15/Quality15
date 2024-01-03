@@ -1,23 +1,13 @@
-### Hi there 👋
-## I am a programmer and Bug Bounty Hunter from Ukraine
+# Quality15
 
-My Discord - Quality#8720
+- **Languages:** C++, Python
 
-My Telegram - quality1509
+## Projects
 
-### Best ukrainian Discord Bot is [Xily](https://discord.com/oauth2/authorize?client_id=898560951513661451&permissions=8&scope=bot%20applications.commands)!
+- [Xily bot](https://github.com/Quality15/discord_bot): Brief description.
+- [sjRAT](https://github.com/Quality15/sjRAT): Brief description.
 
-<!--
-**Quality15/Quality15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [Quality15](https://github.com/Quality15)
+- Discord: q_uality
