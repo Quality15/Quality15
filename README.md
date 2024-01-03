@@ -4,8 +4,8 @@
 
 ## Projects
 
-- [Xily bot](https://github.com/Quality15/discord_bot): Brief description.
-- [sjRAT](https://github.com/Quality15/sjRAT): Brief description.
+- [Xily bot](https://github.com/Quality15/discord_bot): Discord bot on ukrainian language  | Python - discord.py
+- [sjRAT](https://github.com/Quality15/sjRAT): Remote access tool for Windows systems      | C++ - Windows API
 
 ## Contact
 
