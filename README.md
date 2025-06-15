@@ -1,14 +1,20 @@
-# Quality15
 
-- **Languages:** C++, Python
+# 👋
 
-## Projects
+## 💻 Skills
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- [Xily bot](https://github.com/Quality15/discord_bot): Discord bot on ukrainian language  | Python - discord.py
-- [sjRAT](https://github.com/Quality15/sjRAT): Remote access tool for Windows systems      | C++ - Windows API
-- [NNO Game](https://github.com/Quality15/nno-game): Online game with own server on RPi400 | C++ - Windows API
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Contact
+[![CodeWars](https://www.codewars.com/users/Mttttt/badges/large)](https://www.codewars.com/users/Mttttt)
 
-- GitHub: [Quality15](https://github.com/Quality15)
-- Discord: q_uality
+## 🚩 CTFs
+- **5th place**: [Всеукраїнський чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Vseukrainskii-chempionat-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii3) *(19/06/2024)*
+-  🥈**2nd place**: [Міжнародний чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Rezultati-I-Mizhnarodnoho-chempionatu-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii) *(13/06/2025)*
+
+## 🛠️ Projects
+
+## 📞 Contact
+![Discord](https://img.shields.io/badge/Dicrord-q__uality-%235865F2.svg?logo=discord&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-@quality1509-2CA5E0?logo=telegram&logoColor=white)](https://t.me/quality1509)
