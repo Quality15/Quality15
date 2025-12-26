@@ -10,8 +10,9 @@
 [![CodeWars](https://www.codewars.com/users/Mttttt/badges/large)](https://www.codewars.com/users/Mttttt)
 
 ## 🚩 CTFs
-- **5th place**: [Всеукраїнський чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Vseukrainskii-chempionat-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii3) *(19/06/2024)*
+-  🥈**2nd place**: [Київський чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Rezultati-Pyatoho-Kiivskoho-chempionatu-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii) *(01/12/2025)*
 -  🥈**2nd place**: [Міжнародний чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Rezultati-I-Mizhnarodnoho-chempionatu-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii) *(13/06/2025)*
+- **5th place**: [Всеукраїнський чемпіонат з кодування, криптографії, кібербезпеки (CTF) та захисту інформації](https://kman.kyiv.ua/ua/novyny/Vseukrainskii-chempionat-z-koduvannya-kriptohrafii-kiberbezpeki-CTF-ta-zakhistu-informacii3) *(19/06/2024)*
 
 ## 🛠️ Projects
 
