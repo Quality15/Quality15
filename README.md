@@ -27,3 +27,4 @@
 ## 📞 Contact
 ![Discord](https://img.shields.io/badge/Discord-q__uality-%235865F2.svg?logo=discord&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-@quality1509-2CA5E0?logo=telegram&logoColor=white)](https://t.me/quality1509)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matvii--nosenko-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matvii-nosenko-007234315)
