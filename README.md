@@ -25,5 +25,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Quality15/ctf-write-ups?color=orange&style=flat-square)
 
 ## 📞 Contact
-![Discord](https://img.shields.io/badge/Dicrord-q__uality-%235865F2.svg?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-q__uality-%235865F2.svg?logo=discord&logoColor=white)
 [![Telegram](https://img.shields.io/badge/Telegram-@quality1509-2CA5E0?logo=telegram&logoColor=white)](https://t.me/quality1509)
