@@ -2,17 +2,17 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/FIIT_STU-Bratislava-005691?style=flat-square&logo=academia&logoColor=white" alt="FIIT STU" />
-  <img src="https://img.shields.io/badge/Study_Program-Informatika-crimson?style=flat-square" alt="Informatika" />
+  <img src="https://img.shields.io/badge/Major-Computer_Science-crimson?style=flat-square" alt="Computer Science" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_CTF-blueviolet?style=flat-square" alt="Focus" />
 </p>
 
-1st-year **Informatika** student at **FIIT STU (Bratislava)**. Passionate about Cybersecurity, Capture The Flag (CTF) competitions, cryptography, and low-level development.
+1st-year **Computer Science** student at **FIIT STU (Bratislava)**. Passionate about Cybersecurity, Capture The Flag (CTF) competitions, cryptography, and low-level development.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** 1st-year Bachelor of Informatics (`Informatika`) at FIIT STU.
+- 🎓 **Education:** 1st-year Bachelor of Computer Science at FIIT STU.
 - 🎯 **Current Focus:** Deepening knowledge in C/C++, Linux internals, assembly, and network security.
 - 🚩 **CTF Player:** Competing in cryptography, web security, and binary exploitation.
 - 💬 **Ask me about:** C/C++, CTF basics, Linux setup, and cryptography challenges.
